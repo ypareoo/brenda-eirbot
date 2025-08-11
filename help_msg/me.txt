@@ -1,0 +1,2 @@
+Commande : /me
+informe l'utilisateur de son user_name et de son user_id (permet par exemple d'être exclu de la collection des photos de profils (/pp)

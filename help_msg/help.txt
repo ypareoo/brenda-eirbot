@@ -1,0 +1,2 @@
+Commande : /help
+Renvoie la liste des commandes dispos si on ne met pas d'argument

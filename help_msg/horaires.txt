@@ -1,0 +1,3 @@
+Commande : /horaires
+Renvoie les horaires d'ouvertures de l'enseirb
+éditable avec /edit

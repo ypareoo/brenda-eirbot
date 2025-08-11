@@ -1,0 +1,3 @@
+Commande : /bureau
+Renvoie la composition du bureau
+éditable directement avec /edit

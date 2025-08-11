@@ -1,0 +1,3 @@
+Commande : /welcome
+Permet de définir un message de bienvenue aux nouveaux entrant dans un groupe
+Répondre à un message pour le définir comme message de bienvenue

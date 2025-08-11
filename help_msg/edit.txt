@@ -1,0 +1,4 @@
+Commande : /edit
+Permet de changer les messages textes associé aux commandes bureau, horaires, playlist … sans devoir se plonger dans le code.
+Utilisation : /edit nom_fichier motdepasse
+Puis envoyez le nouveau contenu du message en revenant à la ligne.

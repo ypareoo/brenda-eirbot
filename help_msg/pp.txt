@@ -1,0 +1,3 @@
+Commande : /pp
+Renvoie une photo de profil Telegram aléatoire d'une personne ayant déjà envoyé un message dans une conversation où Brenda est présente
+Possibilité d'être exclu des pp sur demande

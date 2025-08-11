@@ -1,0 +1,5 @@
+Commande : /quote
+Renvoie un message aléatoire
+Pour alimenter la base de donnée : 
+- passer en argument un message après la commande /quote
+- répondre à un message avec la commande /quote

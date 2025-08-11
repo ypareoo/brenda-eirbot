@@ -1,0 +1,4 @@
+Commande : /playlists
+Renvoie une sélection de playlists
+éditable avec /edit
+Ne pas hésitez pour demander à rajouter une autre

@@ -1,0 +1,3 @@
+Commande : /mainevent
+Permet de définir l'évènement associé au /countdown
+Utilisation : /mainevent JJ/MM/AAAA HH:mm:ss nom de l'événement

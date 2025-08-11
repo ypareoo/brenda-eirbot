@@ -1,0 +1,5 @@
+Commande : /proba
+Configure les probabilités des messages texte et vidéo de Brenda
+Utilisation : /proba probatext probavideo (valeurs entre 0 et 1)
+Message texte : déclenchement sur des messages précis et court
+Message vidéo : déclenchement sur correspondance des mots présent dans les titres des vidéos

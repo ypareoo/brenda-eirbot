@@ -1,0 +1,2 @@
+Commande : /countdown
+Renvoie très précisément le temps restant avant l'évènement configuré grâce à /mainevent
